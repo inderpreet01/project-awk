@@ -79,7 +79,7 @@ const collectionList = [
   },
   {
     id: 5,
-    title: "Best of Bengaluru",
+    title: "Best of Punjab",
     cover:
       "https://b.zmtcdn.com/data/collections/53be5a745e959a8f6c51c52dd3d9edd1_1536825795.jpg",
     places: "116 Places",
@@ -116,7 +116,7 @@ const DiningOut = () => {
       </div>
       <ExploreSection
         restaurants={diningList}
-        collectionName="Dine-Out Restaurants in Bangalore"
+        collectionName="Dine-Out Restaurants in Punjab"
       />
     </div>
   );
